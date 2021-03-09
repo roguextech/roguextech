@@ -10,8 +10,8 @@
 
 ### Projects I am currently assisting the Portland State Aerospace Society [Website](https://www.pdxaerospace.org/) and [GitHub](https://github.com/psas) as an Industry Advisor.
 - [LFETS](https://github.com/psas/liquid-engine-test-stand)
-- [LV4.0 Airframe](https://github.com/jpparametrics/psas-lv4.0-airframe)
-- [LV4.0 LRE](https://github.com/jpparametrics/psas-liquid-propellant-engine)
+- [LV4.0 Airframe](https://github.com/psas/lv4.0-airframe)
+- [LV4.0 LRE](https://github.com/psas/liquid-propellant-engine)
 - [LV4.0 MDO](https://github.com/psas/lv4-mdo)
 - [OpenRocket](https://github.com/openrocket/openrocket)
 
