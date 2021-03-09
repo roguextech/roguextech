@@ -1,6 +1,6 @@
 ### *Hello World! I am JP...*
 
-#### Irish Viking | Ancient Nerdsmith | Rocketeer | Geek | Hacker | MSME | CSWP | GO PACK GO!!! | For Life!!!
+#### Irish Viking | Ancient Nerdsmith | Rocketeer | Geek | Hacker | ME | CSWP | GO PACK GO!!! | For Life!!!
 
 ### About me
 - Purdue University @FortWayne
