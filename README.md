@@ -1,8 +1,8 @@
-### *Hello World! I am JP...*
+### *Hello World!!! I am JP...*
 
-#### Irish Viking | Ancient Nerdsmith | Rocketeer | Geek | Hacker | ME | CSWP | GO PACK GO!!! | For Life!!!
+#### Irish Viking | Scandinavian Cowboy | Ancient-Nerdsmith | Rocketeer | TRA #21099 | NAR #293573 | Geek | Hacker | ME | CWSP | GO PACK GO! | For Life!!!
 
-### About me
+### About JP
 - Purdue University @FortWayne
 - Class of 1989
 - Major in Mechanical Engineering
@@ -16,12 +16,12 @@
 - [OpenRocket](https://github.com/openrocket/openrocket)
 
 ### My Current Engineering/Life Goals
-- [ ] Design a Small Launch Vehicle
+- [X] Design a Small Launch Vehicle
 - [ ] Design a Sub-orbital/Orbital Manned Ultralight named [Kestrel](http://www.smartfish.ch/en/smartfish/)
 - [ ] Fly Kestrel to the ISS
-- [X] Try to be a decent member of the Human Race, daily...
+- [X] Be a decent member of our species, on a daily basis...
 - [ ] Get some sleep
-- [ ] GO PACK GO!!!
+- [X] GO PACK GO!!!
 
 <!--
 **roguextech/roguextech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
